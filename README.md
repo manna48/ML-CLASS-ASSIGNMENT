@@ -1,1 +1,1 @@
-# ML-CLASS-ASSIGNMENT
+# Machine Learning Hands-On Assignments
